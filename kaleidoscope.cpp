@@ -1,10 +1,3 @@
-/*
-COSC 3P98
-Assignment 1 - Q1 - Kaleidoscope
-Julian Ellis Geronimo (6756597)
-Due: February 17th, 2023
-*/
-
 #include <stdlib.h>
 #include <stdio.h>
 #include <malloc.h>
